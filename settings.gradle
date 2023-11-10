@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 rootProject.name = 'gisbis'
+=======
+rootProject.name = 'eureka-server'
+>>>>>>> 757c554 (init commit eureka)

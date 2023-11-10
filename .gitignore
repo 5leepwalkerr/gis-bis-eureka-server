@@ -32,9 +32,17 @@ out/
 /dist/
 /nbdist/
 /.nb-gradle/
-/.gradle/
-/.idea/
-/resources/
+
+<<<<<<< HEAD
 
 ### VS Code ###
 .vscode/
+.gradle
+.idea
+
+=======
+### VS Code ###
+.vscode/
+.gradle
+.idea
+>>>>>>> 757c554 (init commit eureka)

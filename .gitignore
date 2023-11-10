@@ -32,9 +32,10 @@ out/
 /dist/
 /nbdist/
 /.nb-gradle/
-/.gradle/
-/.idea/
-/resources/
+
 
 ### VS Code ###
 .vscode/
+.gradle
+.idea
+
